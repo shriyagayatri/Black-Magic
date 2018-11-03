@@ -32,8 +32,7 @@ def printSolution(short):
 path = [[0,5,INF,10], 
 			[INF,0,3,INF], 
 			[INF, INF, 0, 1], 
-			[INF, INF, INF, 0] 
-		] 
+			[INF, INF, INF, 0] ]
 
 floydWarshall(path); 
 
