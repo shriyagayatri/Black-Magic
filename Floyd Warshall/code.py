@@ -11,8 +11,8 @@ def floydWarshall(path):
 		for i in range(V): 
 
 			for j in range(V): 
-				short[i][j] = min(short[i][j] , 
-								short[i][k]+ short[k][j] ) 
+				short[i][j] = min(short[i][j] , short[i][k]+ short[k][j] )  
+								
 	printSolution(short) 
  
 def printSolution(short): 
