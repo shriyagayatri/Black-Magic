@@ -20,3 +20,22 @@ The steps for implementing Prim's algorithm are as follows:
 2. Find all the edges that connect the tree to new vertices, find the minimum and add it to the tree.
 
 3. Keep repeating step 2 until we get a minimum spanning tree.
+
+### Initial 
+![1](https://user-images.githubusercontent.com/35976311/47965598-36ca0100-e06f-11e8-9f12-2c1445b62bd3.jpg)
+
+### 1st iteration
+![mst1](https://user-images.githubusercontent.com/35976311/47965599-37fb2e00-e06f-11e8-819b-bbf5a7d17eb2.jpg)
+
+### 2nd iteration
+![mst2](https://user-images.githubusercontent.com/35976311/47965600-392c5b00-e06f-11e8-9074-7ac799fbc931.jpg)
+
+### 3rd iteration
+![mst3](https://user-images.githubusercontent.com/35976311/47965604-3f223c00-e06f-11e8-9a4d-737da46166e6.jpg)
+
+### 4th iteration
+![mst4](https://user-images.githubusercontent.com/35976311/47965608-41849600-e06f-11e8-9f3d-1dddcf18dd5c.jpg)
+
+### Final spanning tree
+![mst5](https://user-images.githubusercontent.com/35976311/47965610-43e6f000-e06f-11e8-9201-ddf6f8966e3a.jpg)
+
