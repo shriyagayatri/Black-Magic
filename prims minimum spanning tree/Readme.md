@@ -1,6 +1,8 @@
 # Spanning tree
 A spanning tree T of an undirected graph G is a subgraph that is a tree which includes all of the vertices of G, with minimum possible number of edges. There can be many spanning trees for a give graph.
 
+![spanningtrees_1000](https://user-images.githubusercontent.com/35976311/47968729-d39e9580-e093-11e8-9393-f1af6f0c0069.gif)
+
 
 
 
