@@ -1,3 +1,8 @@
+# Spanning tree
+A spanning tree T of an undirected graph G is a subgraph that is a tree which includes all of the vertices of G, with minimum possible number of edges. There can be many spanning trees for a give graph.
+
+
+
 
 # Prim's algorithm
 
