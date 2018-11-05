@@ -5,7 +5,7 @@ using namespace std;
 int maxProduct(int a[], int n) 
 { 
 	if (n == 1) 
-		return a[0]; 
+	  return a[0]; 
 
 	int neg = INT_MIN; 
 	int neg_count = 0, zero_count = 0; 
