@@ -8,6 +8,8 @@ From this algorithm you can start from any initial position of the knight on the
 
 **Warnsdorff’s Rule**: Always move to an adjacent, unvisited square with minimal degree.
 
+![article 2_figure 16](https://user-images.githubusercontent.com/35976311/48072405-6cebba00-e202-11e8-8f8e-16ca0ce03dd8.jpg)
+
 
 ## Algorithm
 
