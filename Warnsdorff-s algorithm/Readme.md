@@ -20,8 +20,6 @@ From this algorithm you can start from any initial position of the knight on the
 3. Do following for each move number from 2 to the number of squares on the board:
 
           1. Let S be the set of positions accessible from P.
-          2. Set P to be the position in S with minimum accessibilit
-          
+          2. Set P to be the position in S with minimum accessibilit      
           3.  Mark the board at P with the current move number.
-
           4. Return the marked board — each square will be marked with the move number on which it is visited.
